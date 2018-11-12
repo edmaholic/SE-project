@@ -10,3 +10,7 @@ The second version is srs.doc which is the srs version in IEEE format.
 The third version is FinalSRS_TheProject.docx is the final srs version fully revised with usecase diagram and final revisions. 
 
 SDS is uploaded along with the sequence and state diagram PNGS
+
+coding metrices are uploaded (8 PNG files)
+
+MOMs till date as MOM.pdf
